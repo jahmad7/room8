@@ -1,8 +1,17 @@
-# room8
+# Room8
 
 ## Description
 
 Decision making app for roommates, friends, or whatever. Anonymous, easy and fast.
+Web application supports the creation of multiple polls that use the Borda Count method to rank options.
+
+Application has built in Mail Gun API to allow admin to recieve updates
+
+## DEMO
+
+![Demo of Room8 Application](./room8demo.gif)
+
+
 
 ## Project Setup
 
